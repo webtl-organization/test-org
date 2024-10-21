@@ -10,7 +10,7 @@ Stack Requirements:
 Objective A:  
 • We need to fetch all Organizations associated with the authenticated user. 
 • We need to fetch all Repos for the Organizations. 
-• We will display the Repos data in an AG Grid (front end) 
+• We will display the Repos data in an AG Grid (front end side) 
  • We will display all the repos from all the organizations in the above Grid. The included 
 column is very important. If the Included is checked, it means we will be fetching further data 
 for the Repo. 
