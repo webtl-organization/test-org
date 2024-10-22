@@ -17,3 +17,6 @@ for the Repo.
 • If the Included field is checked for the Repo, we will fetch the following data entities: 
 Commits, Pull Requests, Issues. 
 • We need to fetch all the Records (Commits, Pull requests, Issues) for the included projects. 
+
+Objective B:
+• We need to fetch all the Records (Commits, Pull requests, Issues) for the included projects. 
